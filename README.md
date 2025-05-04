@@ -24,7 +24,7 @@ bot for Twitch that translates chat messages in real-time. It allows viewers fro
 
 2. Install the dependencies:
     ```bash
-    npm install
+    pnpm install
     ```
 
 3. Configure the environment variables:
@@ -40,7 +40,7 @@ bot for Twitch that translates chat messages in real-time. It allows viewers fro
 
 4. Start the bot:
     ```bash
-    npm start
+    pnpm start
     ```
 
 5. Add the bot as a moderator in your Twitch channel so it can read and send messages in the chat.
